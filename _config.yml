@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mohammad Hossein Hosseini"
   avatar           : "smh_profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : ""
   location         : "Iran"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : ""
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Ng87vukAAAAJ"
+  email            : "smh@mail.um.ac.ir"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "smhhoseinee"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/smhhoseinee"
+  orcid            : "https://orcid.org/0000-0001-5484-9497"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/11804385/smh"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
