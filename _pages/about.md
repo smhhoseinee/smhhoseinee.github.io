@@ -12,3 +12,5 @@ Interested in Cloud computing & building AI models.I generally enjoy working on 
 
 B.Sc. student at Ferdowsi University of Mashhad, Iran since 2018
 DevOps at Skyroom.online company since 2020 
+
+![Editing a markdown file for a talk](/images/sci_tech.png)
