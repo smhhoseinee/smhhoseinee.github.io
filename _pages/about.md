@@ -16,7 +16,7 @@ B.Sc. student of Computer Engineering at Ferdowsi University of Mashhad, Iran, s
 DevOps at Skyroom.online company since 2020
 
 
-A person who wants to learn faster, and achieve more.
+A student who wants to learn faster, and achieve more. Being more efficient has been my intention.
 
 
 <!-- ![Editing a markdown file for a talk](/images/sci_tech.png) -->
