@@ -13,7 +13,11 @@ B.Sc. student of Computer Engineering at [Ferdowsi University](https://en.um.ac.
   
   TOEFL score: 109 (28 28 26 27)
 
+
+
 DevOps at [Skyroom.online](https://www.skyroom.online/), the most widely used Iranian video-conferencing platform since 2020.
+
+
 
 
 A student who wants to learn faster, and achieve more. Being more efficient has been my intention.
