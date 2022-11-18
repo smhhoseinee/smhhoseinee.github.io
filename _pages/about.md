@@ -9,7 +9,7 @@ redirect_from:
 ---
 B.Sc. student of Computer Engineering at Ferdowsi University of Mashhad, Iran, since 2018 
 
-  Grade:18.94 GPA:3.92/4.00
+  Grade:18.94,   GPA:3.92/4.00
   
   TOEFL score: 109 (28 28 26 27)
 
