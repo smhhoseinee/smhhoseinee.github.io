@@ -13,7 +13,7 @@ B.Sc. student of Computer Engineering at Ferdowsi University of Mashhad, Iran, s
   
   TOEFL score: 109 (28 28 26 27)
 
-DevOps at Skyroom.online company since 2020
+DevOps at [Skyroom.online]([url](https://www.skyroom.online/)), the most widely used Iranian video-conferencing platform since 2020.
 
 
 A student who wants to learn faster, and achieve more. Being more efficient has been my intention.
