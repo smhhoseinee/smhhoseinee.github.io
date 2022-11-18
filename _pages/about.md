@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-B.Sc. student of Computer Engineering at Ferdowsi University of Mashhad, Iran, since 2018. 
+B.Sc. student of Computer Engineering at [Ferdowsi University]([url](https://en.um.ac.ir/)) of Mashhad, Iran, since 2018. 
 
   Grade:18.94,   GPA:3.92/4.00
   
