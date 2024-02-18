@@ -86,7 +86,8 @@ author:
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Ng87vukAAAAJ"
+  # googlescholar    : "https://scholar.google.com/citations?hl=en&user=Ng87vukAAAAJ"
+  googlescholar    :
   email            : "smh@mail.um.ac.ir"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "smhhoseinee"
-  orcid            : "https://orcid.org/0000-0001-5484-9497"
+  # orcid            : "https://orcid.org/0000-0001-5484-9497"
   pinterest        :
   soundcloud       :
   stackoverflow    : "11804385/smh"
