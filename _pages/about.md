@@ -13,7 +13,7 @@ Ranked 3rd among 140 classmates
 TOEFL score: 109 (28 28 26 27)
 
 
-A student who wants to learn faster, and achieve more. Being more efficient has been my intention.
+A current student and future professor at Sharif University of Iran, who wants to learn faster, and achieve more. Being more efficient has been my intention.
 
 
 <!-- ![Editing a markdown file for a talk](/images/sci_tech.png) -->
