@@ -7,14 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-B.Sc. of Computer Engineering at [Ferdowsi University](https://en.um.ac.ir/) of Mashhad, Iran, since 2018. 
-Grade:19.12/20.0(3.92/4.00)
 
+I am a CS Ph.D. student at the **University of Colorado Boulder**, advised by [Prof. Mark Zhao](https://mzhaoqm.github.io/) and [Prof. Sangtae Ha](https://www.colorado.edu/faculty/sangtae-ha/). I work on **ML systems** — currently **cluster-wide checkpointing for multi-tenant LLM training** — and systems for large-scale real-time video.
 
-TOEFL score: 109 (28 28 26 27)
+I am a co-author of **eXpressSFU** (USENIX **NSDI '26**) and **DeepSFU** (ACM **SIGCOMM '26**), which offload the media data plane of video-conferencing infrastructure onto SmartNICs/DPUs.
 
+Before my Ph.D., I was a UK **Chevening Scholar**, and earlier worked as a DevOps engineer at **Skyroom**, Iran's leading video-conferencing platform, operating production infrastructure through its ~100× COVID-19 scale-up.
 
-A student who is looking for becoming future professor at Sharif University of Iran to expand borders of cutting-edge video-streaming technologies. Being more efficient has always been my intention.
+**I am looking for a Summer 2027 internship in ML systems / training infrastructure.**
 
-
-<!-- ![Editing a markdown file for a talk](/images/sci_tech.png) -->
+[Email](mailto:hosseini@colorado.edu) · [Google Scholar](https://scholar.google.com/citations?user=Ng87vukAAAAJ&hl=en) · [GitHub](https://github.com/smhhoseinee) · [LinkedIn](https://www.linkedin.com/in/smhhoseinee/) · [CV](/files/CV_Hosseini.pdf)

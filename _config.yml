@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohammad Hossein Hosseini"
+title                    : "Saam Hosseini"
 title_separator          : "-"
-name                     : &name "Mohammad Hossein Hosseini"
-description              : &description "Computer Engineering Student at Ferdowsi University"
+name                     : &name "Saam (Seyed Mohammad Hossein) Hosseini"
+description              : &description "CS Ph.D. student, ML systems — University of Colorado Boulder"
 url                      : https://smhhoseinee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smhhoseinee/smhhoseinee.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohammad Hossein Hosseini"
+  name             : "Saam Hosseini"
   avatar           : "smh_profile.jpg"
-  bio              : ""
-  location         : 
-  employer         :
+  bio              : "CS Ph.D. student, ML systems — checkpointing for multi-tenant LLM training. NSDI '26, SIGCOMM '26."
+  location         : "Boulder, CO"
+  employer         : "University of Colorado Boulder"
   pubmed           : 
   # googlescholar    : "https://scholar.google.com/citations?hl=en&user=Ng87vukAAAAJ"
-  googlescholar    :
-  email            : "smhhoseinee@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Ng87vukAAAAJ"
+  email            : "hosseini@colorado.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,13 +98,13 @@ author:
   facebook         :
   foursquare       :
   # github           : "smhhoseinee"
-  github           : 
+  github           : "smhhoseinee"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         : "smhhoseinee"
   # orcid            : "https://orcid.org/0000-0001-5484-9497"
   pinterest        :
   soundcloud       :
