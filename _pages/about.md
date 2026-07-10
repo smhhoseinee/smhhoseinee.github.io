@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a CS Ph.D. student at the **University of Colorado Boulder**, advised by [Prof. Mark Zhao](https://mzhaoqm.github.io/) and [Prof. Sangtae Ha](https://www.colorado.edu/faculty/sangtae-ha/). I work on **ML systems** — currently **cluster-wide checkpointing for multi-tenant LLM training** — and systems for large-scale real-time video.
+I am a CS Ph.D. student at the **University of Colorado Boulder**, advised by [Prof. Mark Zhao](https://home.cs.colorado.edu/~myzhao/) and [Prof. Sangtae Ha](https://netstech.org/sangtaeha/). I work on **ML systems** — currently **cluster-wide checkpointing for multi-tenant LLM training** — and systems for large-scale real-time video.
 
 I am a co-author of **eXpressSFU** (USENIX **NSDI '26**) and **DeepSFU** (ACM **SIGCOMM '26**), which offload the media data plane of video-conferencing infrastructure onto SmartNICs/DPUs.
 
