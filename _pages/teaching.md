@@ -4,6 +4,11 @@ title: "Teaching and mentoring"
 author_profile: true
 ---
 
+## Teaching assistant, University of Colorado Boulder
+
+- CSCI 3753, Design and Analysis of Operating Systems, with Yueqi Chen, Spring 2025
+- CSCI 3753, Design and Analysis of Operating Systems, with CJ Herman, Fall 2025
+
 ## Research mentoring, University of Colorado Boulder
 
 - [Roshan Muddaluru](https://www.linkedin.com/in/roshan-muddaluru/) (M.S.), Fall 2025 to Spring 2026. He now works at Amazon.

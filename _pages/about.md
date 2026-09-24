@@ -18,6 +18,7 @@ Before my Ph.D., I was a UK **Chevening Scholar**, and earlier worked as a DevOp
 
 ## Service and mentoring
 
+- Teaching Assistant, Operating Systems (CSCI 3753), CU Boulder, Spring 2025 and Fall 2025
 - Student Volunteer, ACM SIGCOMM 2026
 - Reviewer, IEEE Transactions on Mobile Computing (TMC), 2026
 - Research mentor to [Roshan Muddaluru](https://www.linkedin.com/in/roshan-muddaluru/) (M.S., Fall 2025 to Spring 2026; now at Amazon) and [Atharva Rasane](https://www.linkedin.com/in/atharva-rasane/) (Summer 2026 to present)
@@ -27,6 +28,6 @@ Before my Ph.D., I was a UK **Chevening Scholar**, and earlier worked as a DevOp
 - Chevening Scholarship, UK Government: one of two recipients selected from Iran (2024)
 - Dean's and Departmental Excellence Fellowship, University of Colorado Boulder (2025)
 - Iranian National Computer Olympiad: ranked 33rd nationally (2022)
-- Iranian National University Entrance Exam (Konkur): ranked 280th nationally, Mathematics and Physics group (2018)
+- Iranian National University Entrance Exam (Konkur): ranked 280th of 53,000, Mathematics and Physics group (2018)
 
 [Email](mailto:hosseini@colorado.edu) · [Google Scholar](https://scholar.google.com/citations?user=Ng87vukAAAAJ&hl=en) · [GitHub](https://github.com/smhhoseinee) · [LinkedIn](https://www.linkedin.com/in/smhhoseinee/) · [CV](/files/CV_Hosseini.pdf)
