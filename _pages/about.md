@@ -20,8 +20,8 @@ Before my Ph.D., I was a UK **Chevening Scholar**, and earlier worked as a DevOp
 
 - Teaching Assistant, Operating Systems (CSCI 3753), CU Boulder, Spring 2025 and Fall 2025
 - Student Volunteer, ACM SIGCOMM 2026
-- Reviewer, IEEE Transactions on Mobile Computing (TMC), 2026
-- Research mentor to [Roshan Muddaluru](https://www.linkedin.com/in/roshan-muddaluru/) (M.S., Fall 2025 to Spring 2026; now at Amazon) and [Atharva Rasane](https://www.linkedin.com/in/atharva-rasane/) (Summer 2026 to present)
+- Sub-reviewer, IEEE Transactions on Mobile Computing (TMC), 2026
+- Research mentor to [Roshan Muddaluru](https://www.linkedin.com/in/roshan-muddaluru/) (M.S., Fall 2025 to Spring 2026; now at Amazon) and [Atharva Rasane](https://www.linkedin.com/in/atharva-rasane/) (M.S., Summer 2026 to present)
 
 ## Honors
 
