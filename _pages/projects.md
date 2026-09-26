@@ -14,7 +14,7 @@ My research is on the [home page](/) and the [publications](/publications/) page
 
 ## Parallel computing
 
-- **Parallel genetic algorithm** for function optimization, in two versions: OpenMP in C++ ([GitHub](https://github.com/smhhoseinee/genetic_algorithm_parallel_using_openmp)) and CUDA ([GitHub](https://github.com/smhhoseinee/genetic_gpu)).
+- **Parallel genetic algorithm** for function optimization, parallelized with OpenMP in C++. [GitHub](https://github.com/smhhoseinee/genetic_algorithm_parallel_using_openmp)
 
 ## Infrastructure
 
