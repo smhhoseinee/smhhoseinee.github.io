@@ -12,7 +12,7 @@ I am a CS Ph.D. student at the **University of Colorado Boulder**, advised by [P
 
 I am a co-author of **eXpressSFU** (USENIX **NSDI '26**) and **DeepSFU** (ACM **SIGCOMM '26**), which offload the media data plane of video-conferencing infrastructure onto SmartNICs/DPUs.
 
-Before my Ph.D., I was a UK **Chevening Scholar**, and earlier worked as a DevOps engineer at **Skyroom**, Iran's leading video-conferencing platform, operating production infrastructure through its ~100× COVID-19 scale-up.
+Before my Ph.D., I was a UK **Chevening Scholar**, and earlier worked as a DevOps / site reliability engineer at **Skyroom**, Iran's leading video-conferencing platform, operating production infrastructure through its ~100× COVID-19 scale-up.
 
 **I am looking for a Summer 2027 internship in ML systems / training infrastructure.**
 
