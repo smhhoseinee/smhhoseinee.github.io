@@ -18,7 +18,23 @@ jobs:
         env:
           OVERLEAF_TOKEN: ${{ secrets.OVERLEAF_GIT_TOKEN }}
         run: |
-          git clone --depth 1 "https://git:${OVERLEAF_TOKEN}@git.overleaf.com/6a4e979a8636de4debb0107c" /tmp/overleaf
+          if [ -z "${OVERLEAF_TOKEN}" ]; then
+            echo "::warning::OVERLEAF_GIT_TOKEN is not configured. Skipping CV sync."
+            exit 0
+          fi
+
+          if ! git clone --depth 1 "https://git:${OVERLEAF_TOKEN}@git.overleaf.com/6a4e979a8636de4debb0107c" /tmp/overleaf; then
+            echo "::warning::Unable to fetch CV from Overleaf (authentication or access issue). Skipping sync."
+            rm -rf /tmp/overleaf
+            exit 0
+          fi
+
+          if [ ! -f /tmp/overleaf/CV_Hosseini.pdf ]; then
+            echo "::warning::Expected CV_Hosseini.pdf not found in Overleaf project. Skipping sync."
+            rm -rf /tmp/overleaf
+            exit 0
+          fi
+
           cp /tmp/overleaf/CV_Hosseini.pdf files/CV_Hosseini.pdf
           rm -rf /tmp/overleaf
 
