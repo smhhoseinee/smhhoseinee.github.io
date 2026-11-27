@@ -1,0 +1,24 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+  - title: "Projects"
+    url: /projects/
+  - title: "Teaching"
+    url: /teaching/
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+    
+  - title: "CV"
+    url: /files/CV_Hosseini.pdf
+       
+  # - title: "Guide"
+  #   url: /markdown/

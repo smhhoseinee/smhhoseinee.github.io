@@ -1,0 +1,35 @@
+name: Sync CV from Overleaf
+
+on:
+  schedule:
+    - cron: '0 13 * * *'   # daily ~7am Denver time
+  workflow_dispatch: {}     # manual "Run workflow" button in the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch latest CV from Overleaf
+        env:
+          OVERLEAF_TOKEN: ${{ secrets.OVERLEAF_GIT_TOKEN }}
+        run: |
+          git clone --depth 1 "https://git:${OVERLEAF_TOKEN}@git.overleaf.com/6a4e979a8636de4debb0107c" /tmp/overleaf
+          cp /tmp/overleaf/CV_Hosseini.pdf files/CV_Hosseini.pdf
+          rm -rf /tmp/overleaf
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet files/CV_Hosseini.pdf; then
+            echo "CV unchanged — nothing to do"
+            exit 0
+          fi
+          git config user.name "Sam Hosseini"
+          git config user.email "hosseini@colorado.edu"
+          git add files/CV_Hosseini.pdf
+          git commit -m "Update CV"
+          git push
